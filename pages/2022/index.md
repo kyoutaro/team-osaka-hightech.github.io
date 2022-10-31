@@ -17,4 +17,4 @@ permalink: /2022/
 - [名前9）](https://yahoo.co.jp)
 - [名前10）](https://yahoo.co.jp)
 - [名前11）](https://yahoo.co.jp)
-- [名前12）](https://yahoo.co.jp)
+- [Yoshida kyoutro）](https://kyoutaro.github.io)
